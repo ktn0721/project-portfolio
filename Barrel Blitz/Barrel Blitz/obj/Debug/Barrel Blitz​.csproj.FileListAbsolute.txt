@@ -1,0 +1,10 @@
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\bin\Debug\_​​Barrel_Blitz​.exe.config
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\bin\Debug\_​​Barrel_Blitz​.exe
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\bin\Debug\_​​Barrel_Blitz​.pdb
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\​​Barrel Blitz​.csproj.AssemblyReference.cache
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\__Barrel_Blitz_.Properties.Resources.resources
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\​​Barrel Blitz​.csproj.GenerateResource.cache
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\​​Barrel Blitz​.csproj.CoreCompileInputs.cache
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\_​​Barrel_Blitz​.exe
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\_​​Barrel_Blitz​.pdb
+C:\Sundries\C#\​​Barrel Blitz​\​​Barrel Blitz​\obj\Debug\_​​Barrel_Blitz​.Form1.resources
