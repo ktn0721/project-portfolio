@@ -1,0 +1,28 @@
+1 创建名为changeFrustum的类的构造函数。它接受一个options对象作为参数，并初始化一些属性和参数。
+    2 在changeFrustum类的原型上定义了一个名为getGeometry的方法。该方法用于获取视锥体的几何形状。
+    3 在changeFrustum类的原型上定义了一个名为update的方法。该方法用于更新视锥体的状态并在场景中渲染。
+4 创建一个名为videoPolygon的类，用于表示一个视频多边形的对象。
+    5 在videoPolygon类的原型上定义了一个名为getGeometry的方法。该方法用于计算并返回视频多边形的几何形状对象。
+    6 在videoPolygon类的原型上定义了一个名为update的方法。该方法用于更新视频多边形对象，并将其添加到渲染命令列表中。
+7 创建并导出videoFrustum类
+    8 创建名为constructor的构造函数，它定义了videoPolygon类的实例初始化过程
+    9 一个名为createByHandler的方法，通过用户交互操作后，调用一系列方法来获取位置信息、计算摄像头姿态，并创建相应的图元和元素。
+    10 创建一个名为createBy2Point的方法，用于创建摄像机视锥体和相关元素。
+    11 创建一个名为get2PositionByHandler的方法，该方法用于捕捉鼠标事件，获取摄像头的起点和终点位置，并进行相应的操作和提示。
+    12 创建一个私有方法#createPerspectiveFrustum()，用于创建透视投影视锥体对象。
+    13 创建一个私有方法#createFrustumOutlineGeometry(frustumGeometry)，用于创建视锥体的轮廓几何体对象。
+    14 一个方法#createFrustumLine()，用于创建视锥体的线框以及相关的视频多边形。
+    15 创建一个方法#createVideoPolygon()，用于创建视频多边形。
+    16 创建一个调试用的模型矩阵原语（DebugModelMatrixPrimitive），以可视化指定位置的坐标系。
+    17 创建一个方法#createOriginFrame()表示起始位置坐标系的调试模型，以帮助可视化起始位置坐标系的方向和朝向。
+    18 创建一个表示点的实体对象，并将其添加到 Cesium 的 viewer.entities 中。
+    19 根据屏幕坐标位置获取对应的世界坐标，用于进行拾取操作或者进行射线与地球表面的相交判断。
+    20 创建一个方法getHeadingAngle()，用于计算从旧的世界坐标点 oldCartesian 到新的世界坐标点 newCartesian 的航向角（heading angle）。
+    21 getVideoPositions()获取视频多边形的位置信息，并将其存储在 this.videoPolygonPositions 数组中，以便后续使用。
+    22 getQuaFromPointsTest(a, b)获取两个点之间的旋转四元数，用于表示旋转的方向和角度。
+    23 getModelMatrix(a, b)获取从点 a 到点 b 的模型矩阵，该模型矩阵包含了旋转和平移信息，用于将局部坐标系转换为世界坐标系。
+    24 getHeadingPitchRoll(m) 从给定的模型矩阵中提取出航向角、俯仰角和滚转角，并将其以度数的形式输出。
+    25 这段代码定义了一个函数 getPointFromRay，它用于从给定的起点 start 和终点 end 构建一条射线，并进行射线拾取操作，获取与射线相交的点。
+    26 创建模型并渲染
+    27 更新参数，可以根据给定的选项参数更新视角的朝向、旋转和透视投影参数，并更新视频位置和视频状态。这段代码在实际应用中可以用于根据用户提供的
+    选项来调整视角和视频的显示效果。

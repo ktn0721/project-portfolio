@@ -1,0 +1,40 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@open-wc/webpack-import-meta-loader": "^0.4.7",
+    "@turf/turf": "^6.5.0",
+    "axios": "^1.4.0",
+    "cesium": "^1.95.0",
+    "cesium-heatmap": "^0.0.4",
+    "cesium-measure": "^0.2.10",
+    "cesiumvectortile": "^1.2.4",
+    "copy-webpack-plugin": "^10.2.4",
+    "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "echarts": "^5.4.3",
+    "express": "^4.18.2",
+    "heatmap.js": "^2.0.5",
+    "mysql": "^2.18.1",
+    "shapefile": "^0.6.6",
+    "shpjs": "^4.0.4",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-methods": "^7.22.5",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

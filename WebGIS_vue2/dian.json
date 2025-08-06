@@ -1,0 +1,229 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25221926100458,
+          30.610514646110193
+        ]
+      },
+      "properties": {
+        "name": "Point 1",
+        "description": "This is the first point."
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8429584330559,
+          30.695514637418153
+        ]
+      },
+      "properties": {
+        "name": "Point 2",
+        "description": "This is the second point."
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92957658355735,
+          30.549306181768266
+        ]
+      },
+      "properties": {
+        "name": "Point 3",
+        "description": "This is the third point."
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84158042060892,
+          30.427367279441967
+        ]
+      },
+      "properties": {
+        "name": "Point 4",
+        "description": "This is the second point."
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95514991607666,
+          30.309104060051407
+        ]
+      },
+      "properties": {
+        "name": "Point 5",
+        "description": "This is the second point."
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03204088402566,
+          30.620104191671842
+        ]
+      },
+      "properties": {
+        "name": "Point 6",
+        "description": "This is the second point."
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.12257817205843,
+          30.59569510313036
+        ]
+      },
+      "properties": {
+        "name": "Point 7",
+        "description": "This is the second point."
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29668027923508,
+          30.607618073111276
+        ]
+      },
+      "properties": {
+        "name": "Point 8",
+        "description": "This is the second point."
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79123142880351,
+          30.73654118434529
+        ]
+      },
+      "properties": {
+        "name": "Point 9",
+        "description": "This is the second point."
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96256168079019,
+          30.687111597265698
+        ]
+      },
+      "properties": {
+        "name": "Point 10",
+        "description": "This is the second point."
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09860302355776,
+          30.77849586995782
+        ]
+      },
+      "properties": {
+        "name": "Point 11",
+        "description": "This is the second point."
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.17006526164555,
+          30.70444546509258
+        ]
+      },
+      "properties": {
+        "name": "Point 12",
+        "description": "This is the second point."
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30978699671819,
+          30.86019080239082
+        ]
+      },
+      "properties": {
+        "name": "Point 13",
+        "description": "This is the second point."
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99072979814217,
+          30.792451047145118
+        ]
+      },
+      "properties": {
+        "name": "Point 14",
+        "description": "This is the second point."
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81111448748567,
+          30.886226639395634
+        ]
+      },
+      "properties": {
+        "name": "Point 15",
+        "description": "This is the second point."
+      },
+      "id": 15
+    }
+  ]
+}
