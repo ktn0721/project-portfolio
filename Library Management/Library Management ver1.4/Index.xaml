@@ -1,0 +1,18 @@
+﻿<Window x:Class="Library_Management_ver1._4.Index"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_Management_ver1._4"
+        mc:Ignorable="d"
+        Title="Index" Height="450" Width="800">
+    <Grid>
+        <ListView>
+            <ListViewItem>西游记</ListViewItem>
+            <ListViewItem>红楼梦</ListViewItem>
+            <ListViewItem>三国演义</ListViewItem>
+            <ListViewItem>水浒传</ListViewItem>
+            <ListViewItem>... ...</ListViewItem>
+        </ListView>
+    </Grid>
+</Window>

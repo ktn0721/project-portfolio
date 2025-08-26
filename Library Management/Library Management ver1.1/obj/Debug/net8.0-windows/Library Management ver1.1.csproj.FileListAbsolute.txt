@@ -1,0 +1,22 @@
+C:\Sundries\C#\Library Management\Library Management ver1.1\bin\Debug\net8.0-windows\Library Management ver1.1.exe
+C:\Sundries\C#\Library Management\Library Management ver1.1\bin\Debug\net8.0-windows\Library Management ver1.1.deps.json
+C:\Sundries\C#\Library Management\Library Management ver1.1\bin\Debug\net8.0-windows\Library Management ver1.1.runtimeconfig.json
+C:\Sundries\C#\Library Management\Library Management ver1.1\bin\Debug\net8.0-windows\Library Management ver1.1.dll
+C:\Sundries\C#\Library Management\Library Management ver1.1\bin\Debug\net8.0-windows\Library Management ver1.1.pdb
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Index.g.cs
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\App.g.cs
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1_MarkupCompile.cache
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1_MarkupCompile.lref
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Index.baml
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.g.resources
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.AssemblyInfoInputs.cache
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.AssemblyInfo.cs
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.csproj.CoreCompileInputs.cache
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.dll
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\refint\Library Management ver1.1.dll
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.pdb
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\Library Management ver1.1.genruntimeconfig.cache
+C:\Sundries\C#\Library Management\Library Management ver1.1\obj\Debug\net8.0-windows\ref\Library Management ver1.1.dll

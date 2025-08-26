@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sundries\\C#\\Library Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693D38FD-0713-4413-B837-8467685AE9A8}|Library Management ver1.5\\Library Management ver1.5.csproj|c:\\sundries\\c#\\library management\\library management ver1.5\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693D38FD-0713-4413-B837-8467685AE9A8}|Library Management ver1.5\\Library Management ver1.5.csproj|solutionrelative:library management ver1.5\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693D38FD-0713-4413-B837-8467685AE9A8}|Library Management ver1.5\\Library Management ver1.5.csproj|c:\\sundries\\c#\\library management\\library management ver1.5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{693D38FD-0713-4413-B837-8467685AE9A8}|Library Management ver1.5\\Library Management ver1.5.csproj|solutionrelative:library management ver1.5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordBoxHelper.cs",
+              "DocumentMoniker": "C:\\Sundries\\C#\\Library Management\\Library Management ver1.5\\PasswordBoxHelper.cs",
+              "RelativeDocumentMoniker": "Library Management ver1.5\\PasswordBoxHelper.cs",
+              "ToolTip": "C:\\Sundries\\C#\\Library Management\\Library Management ver1.5\\PasswordBoxHelper.cs",
+              "RelativeToolTip": "Library Management ver1.5\\PasswordBoxHelper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA0wCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:42:19.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Sundries\\C#\\Library Management\\Library Management ver1.5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library Management ver1.5\\MainWindow.xaml",
+              "ToolTip": "C:\\Sundries\\C#\\Library Management\\Library Management ver1.5\\MainWindow.xaml",
+              "RelativeToolTip": "Library Management ver1.5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-26T07:45:23.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
